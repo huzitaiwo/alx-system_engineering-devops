@@ -1,2 +1,1 @@
-#!/bin/bash
-compgen -g
+#!/bin/bash\ngroups
