@@ -1,1 +1,2 @@
-#!/bin/bash/ncat hello, world
+#!/bin/bash
+cat hello, world
